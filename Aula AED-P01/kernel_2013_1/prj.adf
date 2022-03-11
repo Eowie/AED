@@ -1,0 +1,13 @@
+Projection    TRANSVERSE
+Datum         AI_ETRS89
+Spheroid      GRS80
+Units         METERS
+Zunits        NO
+Xshift        0.0
+Yshift        0.0
+Parameters    
+1.0 /* scale factor at central meridian
+  -8  7 59.19 /* longitude of central meridian
+  39 40  5.73 /* latitude of origin
+0.0 /* false easting (meters)
+0.0 /* false northing (meters)
